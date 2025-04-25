@@ -13,7 +13,7 @@ class SpringbootProjectForJenkinsApplicationTests {
 
 	@Test
 	void contextLoads() {
-		logger.info("Test Case Excuted....");
+		logger.info("Test Case Excuted....*");
 		assertEquals(true, true);
 	}
 
